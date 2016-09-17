@@ -1,0 +1,20 @@
+{
+  "name": "Isolation 1hgj",
+  "authors": [
+    "Eric Dupertuis <dupertuis.eric@gmail.com>"
+  ],
+  "description": "",
+  "main": "app.js",
+  "license": "MIT",
+  "homepage": "http://edupertuis.net",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
